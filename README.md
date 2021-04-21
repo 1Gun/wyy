@@ -1,24 +1,29 @@
 # Vue仿网易云音乐
-
-## Project setup
+## 实现部分功能，仅供参考
+## 加载依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行后端接口
+```
+cd NeteaseCloudMusicApi-master
+node app
+```
+
+### 返回项目根目录
+```
+cd ..
+```
+
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
-npm run build
+npm run buld
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

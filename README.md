@@ -1,4 +1,4 @@
-# wymusic
+# Vue仿网易云音乐
 
 ## Project setup
 ```
